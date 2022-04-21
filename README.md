@@ -4,30 +4,29 @@ developed some software to help engineer to manage and backup database (MySQL)
 
 ## Operating Example (Java)
 input IP, Account, and Password  
-![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart01.png)
+![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart01.png)  
 you can directly input some instruction in textbox  
-![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart02.png)
 here is an exmaple output  
-![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart03.png)
+![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart02.png)  
+![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart03.png)  
+![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart04.png)  
 click "List Structure" button in "Database" menu  
-![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart04.png)
+![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart05.png)  
 double-click the database that you want to edit  
-![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart05.png)
+![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart06.png)  
 left-click to select the table, and right-click to open the function menu  
-![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart06.png)
 you can import (.csv -> table) or export (table -> .csv) tables  
-![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart07.png)
+![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart07.png)  
 
 ## Operating Example (Script)
 #### Warning! The actions of script is destructive instructions, watch out for it.  
 click "backupDatabase.bat"  
-![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart2-01.png)
+![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart2-01.png)  
 backup your database to /backup (directory)  
-![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart2-02.png)
+![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart2-02.png)  
 click "loadingBackup.bat"  
-![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart2-03.png)
 download the record in /backup (directory) to your database  
-![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart2-04.png)
+![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart2-03.png)  
 
 
 ## Installation (Java)
