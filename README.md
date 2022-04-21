@@ -15,7 +15,7 @@ double-click the database that you want to edit
 ![image]()
 left-click to select the table, and right-click to open the function menu 
 ![image]()
-you can import (.csv -> table) or export (table -> .csv) tables 
+you can import (.csv -> table) or export (table -> .csv) tables  
 ![image]()
 
 ## Operating Example (Script)
