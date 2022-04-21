@@ -13,7 +13,7 @@ click "List Structure" button in "Database" menu
 ![image]()
 double-click the database that you want to edit  
 ![image]()
-left-click to select the table, and right-click to open the function menu 
+left-click to select the table, and right-click to open the function menu  
 ![image]()
 you can import (.csv -> table) or export (table -> .csv) tables  
 ![image]()
