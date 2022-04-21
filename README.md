@@ -2,6 +2,25 @@
 developed some software to help engineer to manage and backup database (MySQL)
 
 
+## Operating Example (Java)
+input IP, Account, and Password  
+![image]()
+you can directly input some instruction in textbox  
+![image]()
+here is an exmaple output  
+![image]()
+click "List Structure" button in "Database" menu  
+![image]()
+double-click the database that you want to edit  
+![image]()
+left-click to select the table, and right-click to open the function menu 
+![image]()
+you can import (.csv -> table) or export (table -> .csv) tables 
+![image]()
+
+## Operating Example (Script)
+
+
 ## Installation (Java)
 
 ### step 1
