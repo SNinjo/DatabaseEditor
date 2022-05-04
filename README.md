@@ -7,20 +7,20 @@ developed some software to help engineer to manage and backup database (MySQL)
 
 
 ## Operating Example (Java)
-* input IP, Account, and Password  
-<img src="https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart01.png" width="600" height="300"/>
-* you can directly input some instruction in textbox  
+input IP, Account, and Password  
+<img src="https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart01.png" width="600" height="300"/><br>
+you can directly input some instruction in textbox  
 here is an exmaple output  
-<img src="https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart02.png" width="400" height="300"/>
-<img src="https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart03.png" width="400" height="300"/>
-<img src="https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart04.png" width="400" height="300"/>
-* click "List Structure" button in "Database" menu  
-<img src="https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart05.png" width="400" height="300"/>
-* double-click the database that you want to edit  
-<img src="https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart06.png" width="400" height="300"/>
-* left-click to select the table, and right-click to open the function menu  
+<img src="https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart02.png" width="400" height="300"/><br>
+<img src="https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart03.png" width="400" height="300"/><br>
+<img src="https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart04.png" width="400" height="300"/><br>
+click "List Structure" button in "Database" menu  
+<img src="https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart05.png" width="400" height="300"/><br>
+double-click the database that you want to edit  
+<img src="https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart06.png" width="400" height="300"/><br>
+left-click to select the table, and right-click to open the function menu  
 you can import (.csv -> table) or export (table -> .csv) tables  
-<img src="https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart07.png" width="400" height="300"/>
+<img src="https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart07.png" width="400" height="300"/><br>
 
 
 ## Operating Example (Script)
