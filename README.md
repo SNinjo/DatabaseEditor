@@ -2,21 +2,26 @@
 developed some software to help engineer to manage and backup database (MySQL)
 
 
+## DEMO
+<div align="center"><img src="https://github.com/SNinjo/DatabaseEditor/blob/main/img/DatabaseEditor.gif" width="600" height="300"/></div>
+
+
 ## Operating Example (Java)
-input IP, Account, and Password  
-![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart01.png)  
-you can directly input some instruction in textbox  
+* input IP, Account, and Password  
+<img src="https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart01.png" width="600" height="300"/>
+* you can directly input some instruction in textbox  
 here is an exmaple output  
-![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart02.png)  
-![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart03.png)  
-![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart04.png)  
-click "List Structure" button in "Database" menu  
-![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart05.png)  
-double-click the database that you want to edit  
-![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart06.png)  
-left-click to select the table, and right-click to open the function menu  
+<img src="https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart02.png" width="400" height="300"/>
+<img src="https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart03.png" width="400" height="300"/>
+<img src="https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart04.png" width="400" height="300"/>
+* click "List Structure" button in "Database" menu  
+<img src="https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart05.png" width="400" height="300"/>
+* double-click the database that you want to edit  
+<img src="https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart06.png" width="400" height="300"/>
+* left-click to select the table, and right-click to open the function menu  
 you can import (.csv -> table) or export (table -> .csv) tables  
-![image](https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart07.png)  
+<img src="https://github.com/SNinjo/DatabaseEditor/blob/main/img/flowchart07.png" width="400" height="300"/>
+
 
 ## Operating Example (Script)
 #### Warning! The actions of script is destructive instructions, watch out for it.  
